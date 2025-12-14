@@ -35,26 +35,4 @@ Amacım, **QA ve Otomasyon Test** alanındaki yetkinliğimi derinleştirmek ve Y
 
 ---
 
-## 📊 GitHub İstatistikleri (Opsiyonel Ekleme)
 
-Bu kodları ekleyerek profilinizin aktivite kartlarını gösterebilirsiniz:
-
-```markdown
-[![Sena'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=senakallkan&show_icons=true&theme=dark&rank_icon=github&hide_border=true)](https://github.com/senakallkan)
-
-[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=senakallkan&layout=compact&theme=dark&hide_border=true)](https://github.com/senakallkan)## Hi there 👋
-
-<!--
-**senakallkan/senakallkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
